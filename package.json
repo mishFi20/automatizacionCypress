@@ -1,0 +1,19 @@
+{
+  "name": "automatizacion-youtube",
+  "version": "1.0.0",
+  "description": "Automatizamos pruebas de youtube en Cypress",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "javascript",
+    "e2e"
+  ],
+  "author": "Mishell Figueroa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
+}
