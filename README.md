@@ -5,9 +5,9 @@
 - visual studio Code 
 
 ## pasos para correr el proyecto
--Descargue el proyecto `git remote add origin https://github.com/mishFi20/automatizacionCypress.git`
--Abrir la solucion con Visual Studio Code 
--Ejecutar la solucion
+- Clonar el repo `https://github.com/mishFi20/automatizacionCypress.git`
+- Abrir la solucion con Visual Studio Code 
+- Ejecutar la solucion
 
 
 ## Contribucion
