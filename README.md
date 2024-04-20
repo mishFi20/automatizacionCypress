@@ -6,8 +6,9 @@
 
 ## pasos para correr el proyecto
 - Clonar el repo `https://github.com/mishFi20/automatizacionCypress.git`
-- Abrir la solucion con Visual Studio Code 
-- Ejecutar la solucion
+- Abrir el proyecto con Visual Studio Code 
+- Instalar dependencias con `npm install`
+- Ejecutar la solucion con `npm run open`
 
 
 ## Contribucion
