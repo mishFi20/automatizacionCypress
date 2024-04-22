@@ -14,6 +14,7 @@ describe('Buscando un video en Youtube', function() {
             cy.get('button[aria-label="Borrar todo el historial de reproducciones"]').click();
             cy.get('button[aria-label="Borrar historial de reproducciones"]').click();
             cy.get("#message").contains("Esta lista no tiene videos.").should('be.visible');
-        })
+        });
+        
     })
 });
